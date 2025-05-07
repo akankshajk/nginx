@@ -1,2 +1,2 @@
 this is text file
-x = 44440 
+x = 10 
